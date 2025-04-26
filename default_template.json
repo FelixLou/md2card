@@ -1,0 +1,16 @@
+{
+    "width":900,
+    "height":1200,
+    "background_color":"#ffffff",
+    "background_image":null,
+    "font_path":"/System/Library/Fonts/STHeiti Medium.ttc",
+    "font_size":28,
+    "font_color":"#333333",
+    "line_spacing":1.8,
+    "margins":{
+        "top":100,
+        "bottom":100,
+        "left":100,
+        "right":100
+    }
+}
